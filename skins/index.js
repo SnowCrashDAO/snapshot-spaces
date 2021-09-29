@@ -44,6 +44,7 @@ import chartex from "./chartex.scss";
 import clucoin from "./clucoin.scss";
 import cofix from "./cofix.scss";
 import coin from "./coin.scss";
+import coinswap from "./coinswap.scss";
 import complus from "./complus.scss";
 import contribute from "./contribute.scss";
 import cover from "./cover.scss";
@@ -76,7 +77,6 @@ import egg from "./egg.scss";
 import emptysetgold from "./emptysetgold.scss";
 import esprezzo from "./esprezzo.scss";
 import etgfinance from "./etgfinance.scss";
-import eth from "./eth.scss";
 import evoland from "./evoland.scss";
 import example from "./example.scss";
 import fairmoon from "./fairmoon.scss";
@@ -101,6 +101,7 @@ import goatcoin from "./goatcoin.scss";
 import gokai from "./gokai.scss";
 import golff from "./golff.scss";
 import grap from "./grap.scss";
+import greytoken from "./greytoken.scss";
 import griffin from "./griffin.scss";
 import halodao from "./halodao.scss";
 import hifiFinance from "./hifi-finance.scss";
@@ -213,6 +214,7 @@ import swapx from "./swapx.scss";
 import swarm from "./swarm.scss";
 import swerve from "./swerve.scss";
 import synthetix from "./synthetix.scss";
+import takeprofit from "./takeprofit.scss";
 import tballiance from "./tballiance.scss";
 import thelao from "./thelao.scss";
 import thirm from "./thirm.scss";
@@ -296,6 +298,7 @@ export default {
   clucoin,
   cofix,
   coin,
+  coinswap,
   complus,
   contribute,
   cover,
@@ -328,7 +331,6 @@ export default {
   emptysetgold,
   esprezzo,
   etgfinance,
-  eth,
   evoland,
   example,
   fairmoon,
@@ -353,6 +355,7 @@ export default {
   gokai,
   golff,
   grap,
+  greytoken,
   griffin,
   halodao,
   "hifi-finance": hifiFinance,
@@ -465,6 +468,7 @@ export default {
   swarm,
   swerve,
   synthetix,
+  takeprofit,
   tballiance,
   thelao,
   thirm,
